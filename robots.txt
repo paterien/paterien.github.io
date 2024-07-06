@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paterien.github.io/sitemap
+Sitemap: https://paterien.github.io/app/sitemap
+Sitemap: https://paterien.github.io/assets/sitemap
+Sitemap: https://paterien.github.io/css/sitemap
+Sitemap: https://paterien.github.io/includes/sitemap
+Sitemap: https://paterien.github.io/item/sitemap
+Sitemap: https://paterien.github.io/src/sitemap
